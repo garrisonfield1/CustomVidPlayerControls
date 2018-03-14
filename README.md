@@ -1,0 +1,1 @@
+A practice in overwriting native controls for html5 player
